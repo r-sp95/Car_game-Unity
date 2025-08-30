@@ -21,3 +21,5 @@ Engine: Unity
 Language: C#
 
 Platform: PC
+
+- If you want a preview, visit "Recordings" folder to get insights.
